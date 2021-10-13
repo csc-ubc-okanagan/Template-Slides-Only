@@ -1,4 +1,4 @@
-![](/images/UBCO-CSC-Unit mark-colour.png)
+![](/images/UBCO-CSC-Unit-mark-colour.png)
 
 ## Description
 
