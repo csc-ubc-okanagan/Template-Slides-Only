@@ -14,7 +14,7 @@ Seven easy steps...
 
 **Fourth**, open the `index.md` file and update the contents. The first line is pulling in the CSC logo, so you can leave that be. There are placeholders for a description and linking files that you've uploaded. Feel free to add anything else you'd like.
 
-**Fifth**, turn your `index.md` file into a GitHub page. Go to:
+**Fifth**, turn your `index.md` file into a GitHub page (note that once you hit save, it could take a few minutes for the content to be live). Go to:
   1. Settings
   2. Pages
   3. Source > main > root
