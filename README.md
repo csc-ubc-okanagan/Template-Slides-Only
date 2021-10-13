@@ -4,6 +4,8 @@ Seven easy steps...
 
 **First**, copy the template. [Instructions can be found here](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template). Don't worry about anything beyond step five. However, ensure that the owner is the CSC and that you set the visibility to `Public`.
 
+![](_delete/template.png)
+
 **Second**, in your new repository, open the `_config.yml` file and change the title to reflect the name of your workshop.
 
 ![](_delete/config-update.png)
