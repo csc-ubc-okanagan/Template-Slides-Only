@@ -1,1 +1,1 @@
-# Template-Slides-Only
+# How to use this template
