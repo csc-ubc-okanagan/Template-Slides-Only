@@ -22,6 +22,6 @@ Seven easy steps...
 
 ![](_delete/pages.png)
 
-**Sixth**, head over to the [landing page repository](https://github.com/csc-ubc-okanagan/csc-ubc-okanagan.github.io), and update the csv with your workshop title, description and url.
+**Sixth**, head over to the CSC folder in OneDrive in the the folder `Workshop-Resources`, update the csv file `workshops.csv` with your workshop title, description and url. To have these updates cascaded to the [CSC GitHub landing page](https://csc-ubc-okanagan.github.io/), let Mathew know about the update.
 
 **Seventh**, clean things up. Remove everything from the `_delete` folder. Copy the content from your `index.md` file into here and replace this content with it.
