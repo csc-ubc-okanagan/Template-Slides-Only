@@ -1,0 +1,27 @@
+---
+---
+
+@import "minima";
+
+.site-header {
+  background-color: #2e4c6d !important;
+  border-top: 5px solid #2e4c6d !important;
+  border-bottom: 1px solid #2e4c6d !important;
+
+}
+
+.site-title, .site-title:visited, .site-nav .page-link {
+  color: #fff !important;
+}
+
+.site-nav {
+  display: none;
+}
+
+img {
+  max-width: 75% !important;
+}
+
+a:hover {
+  text-decoration: none;
+}
