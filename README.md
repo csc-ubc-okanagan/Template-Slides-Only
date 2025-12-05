@@ -25,3 +25,12 @@ Seven easy steps...
 **Sixth**, head over to the CSC folder in OneDrive in the the folder `Workshop-Resources`, update the csv file `workshops.csv` with your workshop title, description and url. To have these updates cascaded to the [CSC GitHub landing page](https://csc-ubc-okanagan.github.io/), let Mathew know about the update.
 
 **Seventh**, clean things up. Remove everything from the `_delete` folder. Copy the content from your `index.md` file into here and replace this content with it.
+## License
+
+[![CC BY-NC 4.0](./images/cc-by-nc-shield.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
+
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
